@@ -1,47 +1,34 @@
-# 👨‍💻 Rafael Fuentes
+<h1 align="center">👋 ¡Hola! Soy Rafael Fuentes</h1>
+<p align="center">
+  Desarrollador Full Stack 💻 | Amante del código limpio ✨ | Córdoba, Argentina 🇦🇷
+</p>
 
-¡Hola! Soy **Rafael Fuentes**, Desarrollador Full Stack de Córdoba, Argentina 🇦🇷  
-Actualmente estudio la carrera **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas** en el **Instituto Universitario Aeronáutico (IUA)** ✈️
-
-🔧 Me especializo en el desarrollo de aplicaciones web y móviles usando tecnologías como:
-
-- ⚛️ React & React Native  
-- 🧠 Node.js + Express  
-- 🗄️ MongoDB | PostgreSQL | Firebase  
-- 💅 TailwindCSS, Zustand, Redux  
-- 🌐 APIs REST, integración de terceros, diseño responsive  
-- 🎯 Enfoque en performance, UI/UX y buenas prácticas
-
-🚀 He trabajado en proyectos como:
-- Plataformas inmobiliarias con paneles administrativos  
-- Sistemas de gestión interna y automatización B2B  
-- Aplicaciones de streaming estilo IPTV  
-- Dashboards personalizados y aplicaciones freelance  
-
-📫 **Contacto:**  
-[LinkedIn](https://www.linkedin.com/in/rafaelfuentesz) | [Email](mailto:rafafuentes110@gmail.com)
+<p align="center">
+  <a href="mailto:rafafuentes110@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rafaelfuentesz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rafafuentesz" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-# 👨‍💻 Rafael Fuentes (EN)
+### 🧠 Sobre mí
 
-Hi there! I'm **Rafael Fuentes**, a Full Stack Developer from Córdoba, Argentina 🇦🇷  
-I'm currently studying **Computer Application Development** at the **Instituto Universitario Aeronáutico (IUA)** ✈️
+Soy un Desarrollador Full Stack con experiencia en desarrollo de aplicaciones web y móviles.  
+Actualmente estudio en el **Instituto Universitario Aeronáutico (IUA)** la carrera de **Desarrollo de Aplicaciones Informáticas** ✈️  
+Me apasiona crear soluciones escalables que mejoren la experiencia del usuario y optimicen procesos.  
 
-🔧 I specialize in building web and mobile applications with technologies such as:
+- 🔭 Actualmente trabajando en: proyectos B2B y plataformas internas
+- 🌱 Aprendiendo: Arquitectura avanzada, DevOps y Next.js
+- 💬 Me gusta hablar de: JavaScript, React, Node.js y UI/UX
+- ⚡ Fun fact: Amo programar con mate de por medio 🧉
 
-- ⚛️ React & React Native  
-- 🧠 Node.js + Express  
-- 🗄️ MongoDB | PostgreSQL | Firebase  
-- 💅 TailwindCSS, Zustand, Redux  
-- 🌐 REST APIs, third-party integrations, responsive design  
-- 🎯 Focused on performance, UI/UX, and clean code
+---
 
-🚀 Projects I’ve worked on:
-- Real estate platforms with admin dashboards  
-- B2B internal management and automation systems  
-- IPTV-style streaming applications  
-- Freelance web apps and dashboards  
+### 🛠️ Tecnologías
 
-📫 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/rafaelfuentesz) | [Email](mailto:rafafuentes110@gmail.com)
+```bash
+💻 Lenguajes: JavaScript, SQL, Java
+🌐 Frontend: React, React Native, TailwindCSS, Zustand
+🧠 Backend: Node.js, Express, Firebase
+🗃️ DBs: MongoDB, PostgreSQL
+🛠️ Herramientas: Git, GitHub, Docker, Postman, Canva
