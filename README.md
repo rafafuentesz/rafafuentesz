@@ -19,8 +19,6 @@ Me apasiona crear soluciones escalables que mejoren la experiencia del usuario y
 
 - 🔭 Actualmente trabajando en: proyectos B2B y plataformas internas
 - 🌱 Aprendiendo: Arquitectura avanzada, DevOps y Next.js
-- 💬 Me gusta hablar de: JavaScript, React, Node.js y UI/UX
-- ⚡ Fun fact: Amo programar con mate de por medio 🧉
 
 ---
 
