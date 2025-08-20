@@ -18,7 +18,7 @@ Actualmente estudio en el **Instituto Universitario Aeronáutico (IUA)** la carr
 Me apasiona crear soluciones escalables que mejoren la experiencia del usuario y optimicen procesos.  
 
 - 🔭 Actualmente trabajando en: proyectos B2B y plataformas internas
-- 🌱 Aprendiendo: Arquitectura avanzada, DevOps y Next.js
+- 🌱 Aprendiendo: Arquitectura avanzada, DevOps y Angular 20+
 
 ---
 
@@ -26,7 +26,7 @@ Me apasiona crear soluciones escalables que mejoren la experiencia del usuario y
 
 ```bash
 💻 Lenguajes: JavaScript, SQL, Java
-🌐 Frontend: React, React Native, TailwindCSS, Zustand
-🧠 Backend: Node.js, Express, Firebase
-🗃️ DBs: MongoDB, PostgreSQL
+🌐 Frontend: React, React Native, TailwindCSS, Zustand, Angular
+🧠 Backend: Node.js, Express
+🗃️ DBs: MongoDB, PostgreSQL, MySql
 🛠️ Herramientas: Git, GitHub, Docker, Postman, Canva
